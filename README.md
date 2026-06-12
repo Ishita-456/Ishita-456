@@ -1,7 +1,7 @@
 <h1 align="center">🌸 Hi, I'm Ishita! 🌸</h1>
 
 <p align="center">
-✨ Aspiring Software Engineer | AI Enthusiast | Problem Solver ✨
+✨ Aspiring Data Scientist | AI Enthusiast | Problem Solver ✨
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
 
 ## 💫 About Me
 
-🌸 Computer Science Student
+🌸 Data Science Student
 
 💻 Currently practicing Data Structures & Algorithms
 
