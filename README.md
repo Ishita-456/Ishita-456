@@ -82,6 +82,20 @@
 ---
 
 
+## 📫 Connect With Me
+
+💼 LinkedIn: https://www.linkedin.com/in/ishita-ghayade-b5231b32b
+
+💻 LeetCode: https://leetcode.com/u/Ish_ita05/
+
+📧 Email: [ighayade@gmail.com](mailto:ighayade@gmail.com)
+
+---
+
+⭐ Always learning, always building, one project at a time.
+
+
+
 <p align="center">
 💖 Thanks for visiting my profile 💖
 </p>
