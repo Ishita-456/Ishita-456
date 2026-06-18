@@ -1,9 +1,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=50&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=1000&height=100&lines=Hi+👋+I'm+Ishita+Ghayade" />
 </p>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=45&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&height=80&lines=Ishita+Ghayade" />
-</p>
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Data%20Science%20Student&fontSize=40&fontAlignY=40&animation=twinkling&fontColor=ffffff&desc=AI%20%7C%20Machine%20Learning%20%7C%20Future%20ML%20Engineer&descAlignY=65&descSize=18"/>
