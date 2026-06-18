@@ -1,6 +1,18 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Ishita%20Ghayade&fontSize=70&fontAlignY=38&animation=twinkling&fontColor=ffffff&desc=Data%20Science%20%7C%20AI%20%26%20Machine%20Learning%20Enthusiast&descAlignY=62&descSize=22"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=50&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=1000&height=100&lines=Hi+👋+I'm+Ishita+Ghayade" />
 </p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=45&duration=4000&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&height=80&lines=Ishita+Ghayade" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Data%20Science%20Student&fontSize=40&fontAlignY=40&animation=twinkling&fontColor=ffffff&desc=AI%20%7C%20Machine%20Learning%20%7C%20Future%20ML%20Engineer&descAlignY=65&descSize=18"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Building+Data-Driven+Solutions;Exploring+Artificial+Intelligence;Machine+Learning+Enthusiast;Transforming+Ideas+Into+Impact;Always+Learning+Something+New" />
+</p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B+I'm+Ishita+Ghayade;Data+Science+Student;Artificial+Intelligence+Explorer;Machine+Learning+Enthusiast;Building+Data-Driven+Solutions;Transforming+Ideas+Into+Impact;Always+Learning+Something+New+%F0%9F%9A%80" />
