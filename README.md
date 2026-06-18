@@ -1,101 +1,155 @@
-<h1 align="center">🌸 Hi, I'm Ishita! 🌸</h1>
+# Hi, I'm Ishita Ghayade 👋
 
-<p align="center">
-✨ Aspiring Data Scientist | AI Enthusiast | Problem Solver ✨
-</p>
+### Data Science Student | AI & Machine Learning Enthusiast | Aspiring ML Engineer
 
-<p align="center">
-🌷 Learning • Building • Growing every day 🌷
-</p>
+I am a B.Tech Computer Science (Data Science) student passionate about transforming data into meaningful insights and building intelligent solutions using Artificial Intelligence and Machine Learning.
+
+Currently, I am focused on strengthening my skills in Data Structures & Algorithms, Data Analytics, Machine Learning, and Cloud Technologies while building projects that solve real-world problems.
 
 ---
 
-## 💫 About Me
+## About Me
 
-🌸 Data Science Student
-
-💻 Currently practicing Data Structures & Algorithms
-
-🤖 Exploring AI, Machine Learning & Data Science
-
-🌐 Learning Full Stack Development
-
-☁️ Working with Firebase & Cloud Technologies
-
-📚 Believer in consistent growth over perfection
+* 🎓 B.Tech CSE (Data Science) Student
+* 🤖 Exploring Artificial Intelligence & Machine Learning
+* 📊 Interested in Data Analytics and Data Science
+* 💻 Practicing Data Structures & Algorithms
+* 🌐 Learning Full Stack Development
+* ☁️ Working with Firebase and Cloud Technologies
+* 🚀 Passionate about building impactful technology solutions
 
 ---
 
-## 🛠️ Tech Stack
+## Technical Skills
 
-### 💻 Languages
+### Programming Languages
 
-[![My Skills](https://skillicons.dev/icons?i=python,cpp,c,js,ts)](https://skillicons.dev)
+* Python
+* C++
+* C
+* JavaScript
+* TypeScript
 
-### 🎨 Frontend
+### Web Development
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap)](https://skillicons.dev)
+* HTML
+* CSS
+* React
+* Next.js
+* Node.js
+* Express.js
 
-### ⚙️ Backend
+### Databases
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express)](https://skillicons.dev)
+* MySQL
+* PostgreSQL
+* MongoDB
+* Firebase
 
-### 🗄️ Databases
+### Data Science & AI
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase)](https://skillicons.dev)
+* Python
+* Pandas
+* NumPy
+* Matplotlib
+* Machine Learning
+* Data Analysis
 
-### ☁️ Cloud & Tools
+### Tools & Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=git,github,docker,aws,vscode)](https://skillicons.dev)
-
----
-
-## 🌱 Currently Learning
-
-- Advanced DSA
-- SQL & Database Design
-- Machine Learning
-- Cloud Computing
-- System Design Basics
-
----
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Ishita-456&theme=radical&show_icons=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Ishita-456&theme=radical)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ishita-456&layout=compact&theme=radical)
----
-
-## 🏆 Goals for 2026
-
-✅ Master DSA
-
-✅ Build impactful projects
-
-✅ Contribute to Open Source
-
-✅ Grow in AI & Data Science
+* Git
+* GitHub
+* VS Code
+* Docker
+* AWS (Learning)
+* Postman
 
 ---
 
+## Current Focus
 
-## 📫 Connect With Me
+```text
+• Data Structures & Algorithms
+• SQL & Database Design
+• Machine Learning Fundamentals
+• Data Analytics
+• Cloud Computing
+• Building Real-World Projects
+```
 
-💼 LinkedIn: https://www.linkedin.com/in/ishita-ghayade-b5231b32b
+## Featured Projects
 
-💻 LeetCode: https://leetcode.com/u/Ish_ita05/
+### Personalized Daily Goal Tracker
 
-📧 Email: [ighayade@gmail.com](mailto:ighayade@gmail.com)
+A productivity-focused application designed to help users track goals, habits, and daily progress.
+
+**Tech Stack:** Firebase, JavaScript, HTML, CSS
 
 ---
 
-⭐ Always learning, always building, one project at a time.
+### Data Analytics Projects
 
+Projects involving data cleaning, visualization, exploratory data analysis, and deriving insights from datasets.
 
+**Tech Stack:** Python, Pandas, NumPy, Matplotlib
 
-<p align="center">
-💖 Thanks for visiting my profile 💖
-</p>
+---
+
+### Machine Learning Projects
+
+Building predictive models and learning end-to-end machine learning workflows.
+
+**Tech Stack:** Python, Scikit-Learn, TensorFlow
+
+---
+
+## Certifications
+
+* IBM SkillsBuild Programs
+* Edunet Foundation AI Programs
+* Google Data Analytics (In Progress)
+* Additional AI & Cloud Certifications (Ongoing)
+
+---
+
+## GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME\&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME\&layout=compact)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME)
+
+---
+
+## Career Goals
+
+* Gain expertise in Data Science and Machine Learning
+* Build scalable AI-powered applications
+* Secure opportunities in Data Science and AI domains
+* Contribute to impactful projects and open-source communities
+* Continuously learn and grow as a technology professional
+
+---
+
+## Connect With Me
+
+### LinkedIn
+
+[www.linkedin.com/in/ishita-ghayade-b5231b32b](http://www.linkedin.com/in/ishita-ghayade-b5231b32b)
+
+### LeetCode
+
+leetcode.com/u/Ish_ita05
+
+### Email
+
+[ighayade@gmail.com](mailto:ighayade@gmail.com)
+
+---
+
+### Quote
+
+> "Consistency compounds. Small efforts every day create remarkable results."
+
+⭐ Thank you for visiting my profile.
