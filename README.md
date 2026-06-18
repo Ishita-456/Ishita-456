@@ -1,87 +1,65 @@
-# Hi, I'm Ishita Ghayade 👋
-
-### Data Science Student | AI & Machine Learning Enthusiast | Aspiring ML Engineer
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:0EA5E9&height=220&section=header&text=Ishita%20Ghayade&fontSize=55&fontAlignY=38&animation=fadeIn&fontColor=ffffff&desc=Data%20Science%20Student%20|%20AI%20%26%20Machine%20Learning%20Enthusiast&descAlignY=60&descSize=18"/>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Data+Science+Student;AI+%26+Machine+Learning+Enthusiast;Building+Data-Driven+Solutions;Learning+%E2%86%92+Building+%E2%86%92+Growing;Aspiring+Machine+Learning+Engineer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Ishita%20Ghayade&fontSize=70&fontAlignY=38&animation=twinkling&fontColor=ffffff&desc=Data%20Science%20%7C%20AI%20%26%20Machine%20Learning%20Enthusiast&descAlignY=62&descSize=22"/>
 </p>
 
 <p align="center">
-📊 Data Science Student | 🤖 AI & Machine Learning Enthusiast | 🚀 Future ML Engineer
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B+I'm+Ishita+Ghayade;Data+Science+Student;Artificial+Intelligence+Explorer;Machine+Learning+Enthusiast;Building+Data-Driven+Solutions;Transforming+Ideas+Into+Impact;Always+Learning+Something+New+%F0%9F%9A%80" />
 </p>
 
----
-
-## 💫 About Me
-
-🎓 Pursuing B.Tech in Computer Science (Data Science)
-
-📊 Passionate about Data Science, Analytics, and Artificial Intelligence
-
-💻 Strengthening problem-solving skills through Data Structures & Algorithms
-
-🤖 Exploring Machine Learning, Deep Learning, and Generative AI
-
-🌐 Learning Full-Stack Development and Cloud Technologies
-
-☁️ Building applications using Firebase and modern development tools
-
-🚀 Interested in creating intelligent solutions that solve real-world problems
-
-📚 Believer in continuous learning, consistency, and practical implementation
-
----
-
-## 🌐 Connect With Me
+<h3 align="center">
+📊 Data Science Student | 🤖 AI & Machine Learning Enthusiast | 🚀 Future Machine Learning Engineer
+</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ishita-ghayade-b5231b32b">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
-
   <a href="mailto:ighayade@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
   </a>
-
   <a href="https://leetcode.com/u/Ish_ita05/">
-    <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="45"/>
+    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" />
   </a>
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ishita-456&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+</p>
+
+---
+
+# 💫 About Me
+
+🚀 Passionate about transforming data into intelligent solutions
+
+🎓 B.Tech Computer Science (Data Science) Student
+
+📊 Interested in Data Science, Analytics, and Machine Learning
+
+💻 Practicing Data Structures & Algorithms
+
+🤖 Exploring Artificial Intelligence, Deep Learning & Generative AI
+
+🌐 Learning Full Stack Development
+
+☁️ Building projects using Firebase and Cloud Technologies
+
+📚 Believer in continuous learning and practical implementation
 
 ---
 
 ## 💻 Tech Stack
 
-### Programming Languages
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts,mysql,postgres,firebase,git&perline=9" />
 </p>
 
-### Web Development
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,express,mongodb,vscode,docker&perline=9" />
 </p>
 
-### Databases
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase" />
-</p>
-
-### AI, Data Science & Cloud
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,aws,docker" />
-</p>
-
-### Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" />
+  <img src="https://skillicons.dev/icons?i=aws,tensorflow,pytorch,linux,postman,github&perline=6" />
 </p>
 
 ---
@@ -99,37 +77,13 @@
 
 ---
 
-## 📚 Certifications & Learning
+## 📚 Certifications
 
-🏆 IBM SkillsBuild AI Programs
+🏆 IBM SkillsBuild Programs
 
-🏆 Edunet Foundation Training Programs
-
-🏆 Google Data Analytics Professional Certificate (In Progress)
+🏆 Edunet Foundation AI Programs
 
 🏆 AI & Cloud Computing Learning Path
-
----
-
-## 🚀 Featured Projects
-
-### 🎯 Personalized Daily Goal Tracker
-
-A Firebase-powered productivity application for tracking goals, habits, and daily progress.
-
-**Tech Stack:** Firebase, JavaScript, HTML, CSS
-
-### 📊 Data Analytics Projects
-
-Data cleaning, visualization, exploratory data analysis, and business insights.
-
-**Tech Stack:** Python, Pandas, NumPy, Matplotlib
-
-### 🤖 Machine Learning Projects
-
-Learning and implementing predictive models and end-to-end ML workflows.
-
-**Tech Stack:** Python, Scikit-Learn, TensorFlow
 
 ---
 
@@ -163,6 +117,28 @@ Learning and implementing predictive models and end-to-end ML workflows.
 
 ---
 
+## 🚀 Featured Projects
+
+### 🎯 Personalized Daily Goal Tracker
+
+Track goals, habits, and productivity using Firebase-powered data management.
+
+**Tech Stack:** Firebase, JavaScript, HTML, CSS
+
+### 📊 Data Analytics Projects
+
+Data cleaning, visualization, exploratory data analysis, and business insights.
+
+**Tech Stack:** Python, Pandas, NumPy, Matplotlib
+
+### 🤖 Machine Learning Projects
+
+Building predictive models and learning end-to-end ML workflows.
+
+**Tech Stack:** Python, Scikit-Learn, TensorFlow
+
+---
+
 ## 🎯 Career Goals
 
 ✅ Become a Machine Learning Engineer
@@ -183,7 +159,7 @@ Learning and implementing predictive models and end-to-end ML workflows.
 
 <p align="center">
 <i>
-"Consistency compounds. Small improvements every day lead to extraordinary results."
+"Transforming curiosity into knowledge and ideas into solutions."
 </i>
 </p>
 
