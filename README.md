@@ -1,155 +1,176 @@
-# Hi, I'm Ishita Ghayade 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Ishita%20Ghayade&fontSize=55&fontAlignY=38&animation=twinkling&fontColor=ffffff&desc=Data%20Science%20Student%20•%20AI%20%26%20ML%20Enthusiast%20•%20Future%20ML%20Engineer&descAlignY=60&descSize=18"/>
 
-### Data Science Student | AI & Machine Learning Enthusiast | Aspiring ML Engineer
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Data+Science+Student;AI+%26+Machine+Learning+Enthusiast;Building+Projects+with+Data+%26+Technology;Learning+%E2%86%92+Building+%E2%86%92+Growing;Future+Machine+Learning+Engineer" />
+</p>
 
-I am a B.Tech Computer Science (Data Science) student passionate about transforming data into meaningful insights and building intelligent solutions using Artificial Intelligence and Machine Learning.
-
-Currently, I am focused on strengthening my skills in Data Structures & Algorithms, Data Analytics, Machine Learning, and Cloud Technologies while building projects that solve real-world problems.
-
----
-
-## About Me
-
-* 🎓 B.Tech CSE (Data Science) Student
-* 🤖 Exploring Artificial Intelligence & Machine Learning
-* 📊 Interested in Data Analytics and Data Science
-* 💻 Practicing Data Structures & Algorithms
-* 🌐 Learning Full Stack Development
-* ☁️ Working with Firebase and Cloud Technologies
-* 🚀 Passionate about building impactful technology solutions
+<h3 align="center">
+📊 Data Science Student | 🤖 AI & Machine Learning Enthusiast | 🚀 Building Future-Ready Solutions
+</h3>
 
 ---
 
-## Technical Skills
+# 💫 About Me
 
-### Programming Languages
+🎓 Pursuing B.Tech in Computer Science (Data Science)
 
-* Python
-* C++
-* C
-* JavaScript
-* TypeScript
+📊 Passionate about Data Science, Analytics, and Machine Learning
 
-### Web Development
+💻 Consistently improving problem-solving through Data Structures & Algorithms
 
-* HTML
-* CSS
-* React
-* Next.js
-* Node.js
-* Express.js
+🤖 Exploring AI, Machine Learning, Deep Learning, and Generative AI
 
-### Databases
+🌐 Learning Full Stack Development and Cloud Technologies
 
-* MySQL
-* PostgreSQL
-* MongoDB
-* Firebase
+☁️ Working with Firebase and modern development tools
 
-### Data Science & AI
+📚 Strong believer in continuous learning and practical implementation
 
-* Python
-* Pandas
-* NumPy
-* Matplotlib
-* Machine Learning
-* Data Analysis
-
-### Tools & Technologies
-
-* Git
-* GitHub
-* VS Code
-* Docker
-* AWS (Learning)
-* Postman
+🚀 Aspiring to build intelligent systems that solve real-world problems through data and technology
 
 ---
 
-## Current Focus
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ishita-ghayade-b5231b32b">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="mailto:ighayade@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="https://leetcode.com/u/Ish_ita05/">
+    <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="45"/>
+  </a>
+</p>
+
+---
+
+## 💻 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts,mysql,postgres,firebase,git&perline=9" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,express,mongodb,vscode,docker&perline=9" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,tensorflow,pytorch,linux,postman,github&perline=6" />
+</p>
+
+---
+
+## 🚀 Current Focus
 
 ```text
-• Data Structures & Algorithms
-• SQL & Database Design
-• Machine Learning Fundamentals
-• Data Analytics
-• Cloud Computing
-• Building Real-World Projects
+🔹 Data Structures & Algorithms
+🔹 Machine Learning
+🔹 Data Analytics
+🔹 SQL & Database Design
+🔹 Cloud Fundamentals
+🔹 Real-World Project Development
 ```
 
-## Featured Projects
+---
 
-### Personalized Daily Goal Tracker
+## 📚 Certifications
 
-A productivity-focused application designed to help users track goals, habits, and daily progress.
+🏆 IBM SkillsBuild Programs
+
+🏆 Edunet Foundation AI Programs
+
+🏆 Google Data Analytics Professional Certificate (In Progress)
+
+🏆 AI & Cloud Computing Learning Path
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🎯 Personalized Daily Goal Tracker
+
+Track goals, habits, and productivity with Firebase-powered data management.
 
 **Tech Stack:** Firebase, JavaScript, HTML, CSS
 
----
+### 📊 Data Analytics Projects
 
-### Data Analytics Projects
-
-Projects involving data cleaning, visualization, exploratory data analysis, and deriving insights from datasets.
+Exploratory Data Analysis, data visualization, and business insights using Python.
 
 **Tech Stack:** Python, Pandas, NumPy, Matplotlib
 
----
+### 🤖 Machine Learning Projects
 
-### Machine Learning Projects
-
-Building predictive models and learning end-to-end machine learning workflows.
+Building predictive models and learning end-to-end ML workflows.
 
 **Tech Stack:** Python, Scikit-Learn, TensorFlow
 
 ---
 
-## Certifications
+## 🎯 Career Goals
 
-* IBM SkillsBuild Programs
-* Edunet Foundation AI Programs
-* Google Data Analytics (In Progress)
-* Additional AI & Cloud Certifications (Ongoing)
+✅ Become a Machine Learning Engineer
 
----
+✅ Build impactful AI-powered applications
 
-## GitHub Statistics
+✅ Master Data Science and Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME\&show_icons=true)
+✅ Secure industry experience through internships
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME\&layout=compact)
+✅ Contribute to Open Source Projects
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME)
+✅ Continuously learn and innovate
 
 ---
 
-## Career Goals
+## 💭 Personal Philosophy
 
-* Gain expertise in Data Science and Machine Learning
-* Build scalable AI-powered applications
-* Secure opportunities in Data Science and AI domains
-* Contribute to impactful projects and open-source communities
-* Continuously learn and grow as a technology professional
-
----
-
-## Connect With Me
-
-### LinkedIn
-
-[www.linkedin.com/in/ishita-ghayade-b5231b32b](http://www.linkedin.com/in/ishita-ghayade-b5231b32b)
-
-### LeetCode
-
-leetcode.com/u/Ish_ita05
-
-### Email
-
-[ighayade@gmail.com](mailto:ighayade@gmail.com)
+<p align="center">
+<i>
+"Growth happens when curiosity meets consistency."
+</i>
+</p>
 
 ---
 
-### Quote
+<p align="center">
+⭐ Thanks for visiting my profile
 
-> "Consistency compounds. Small efforts every day create remarkable results."
+📚 Always Learning • 🚀 Always Building • 💡 Always Growing
 
-⭐ Thank you for visiting my profile.
+</p>
